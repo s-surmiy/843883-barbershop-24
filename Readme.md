@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Sergey Surmiy](https://up.htmlacademy.ru/htmlcss/24/user/843883).
-
+* Наставник: [Maxim Fariga](https://htmlacademy.ru/profile/maximfariga).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
